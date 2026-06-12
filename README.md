@@ -142,7 +142,6 @@ JUDUL: SISTEM INFORMASI PENJUALAN SAYUR "TOKO SEGAR HIJAU"
 11. Kesimpulan
     Proyek layak secara finansial karena menghasilkan penghematan dan peningkatan pendapatan yang melebihi biaya operasional setelah tahun pertama.
 
-
 ## Gambar Flowchart
-![Flowchart Sistem](Flowchart.png)
 
+![Flowchart Sistem](Flowchart.png)
