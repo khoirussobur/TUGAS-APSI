@@ -142,6 +142,9 @@ JUDUL: SISTEM INFORMASI PENJUALAN SAYUR "TOKO SEGAR HIJAU"
 11. Kesimpulan
     Proyek layak secara finansial karena menghasilkan penghematan dan peningkatan pendapatan yang melebihi biaya operasional setelah tahun pertama.
 
-## Gambar Flowchart
+## Gambar FlowchartChanges not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.MD
 
 ![Flowchart Sistem](flowchart.png)
