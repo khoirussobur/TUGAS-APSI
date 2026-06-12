@@ -144,4 +144,4 @@ JUDUL: SISTEM INFORMASI PENJUALAN SAYUR "TOKO SEGAR HIJAU"
 
 ## Gambar Flowchart
 
-![Flowchart Sistem](Flowchart.png)
+![Flowchart Sistem](flowchart.png)
